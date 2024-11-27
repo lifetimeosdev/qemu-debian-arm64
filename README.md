@@ -27,5 +27,8 @@ press `ctrl a` and release then press `ctrl a` and release then press `1` or `2`
 ## Thanks to Will Haley
 https://www.willhaley.com/blog/debian-arm-qemu/
 
+## Thanks to James Coyle
+https://www.jamescoyle.net/how-to/1818-access-a-qcow2-virtual-disk-image-from-the-host
+
 ## Thanks to KJ7LNW
 https://unix.stackexchange.com/questions/533539/switch-tabs-in-debian-installer-over-serial-console-with-putty
