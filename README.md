@@ -10,6 +10,9 @@ curl -O http://ftp.us.debian.org/debian/dists/stable/main/installer-arm64/curren
 curl -O http://ftp.us.debian.org/debian/dists/stable/main/installer-arm64/current/images/cdrom/vmlinuz
 curl -O -L https://cdimage.debian.org/debian-cd/current/arm64/iso-dvd/debian-12.8.0-arm64-DVD-1.iso
 
+# After installation
+./copy_out_vmlinuz_initrd.sh
+
 ```
 ## Important
 - You should use `copy_out_vmlinuz_initrd.sh` script to copy out kernel and initrd after linux upgrade in debian guest.
